@@ -1,0 +1,1 @@
+./UAIR ../case/6s320rb1.aig ./outputFiles
